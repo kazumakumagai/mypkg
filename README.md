@@ -6,7 +6,7 @@ rosを使ったオリジナルパッケージ製作
 ## 環境
 ・OS: Ubuntu 20.04.1 LTS
 ## 手順
-https://github.com/kazumakumagai/rsys2.git　インストール
+https://github.com/kazumakumagai/mypkg.git　インストール
 ターミナル１でroscore　　
 ターミナル２でrosrun mypkg one.py  
 ターミナル３でrosrun mypkg two.py
